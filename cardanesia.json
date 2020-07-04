@@ -1,1 +1,6 @@
-{ "name": "Cardanesia", "description": "An Indonesian-based stake pool", "ticker": "ADI", "homepage": "https://cardanesia.com" }
+{
+"name": "Cardanesia",
+"description": "An Indonesian-based Cardano stake pool",
+"ticker": "ADI",
+"homepage": "https://cardanesia.com"
+}
