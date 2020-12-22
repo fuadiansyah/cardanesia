@@ -23,7 +23,7 @@
         },
         "about": {
             "me": "",
-            "server": "",
+            "server": "We have 2 core/block producer nodes (main and backup) and 2 relays nodes all in separate locations. Each node is strategically located in different regions in the event an outage should occur in a particular geographic location. The main region is, of course, in Jakarta, Indonesia.",
             "company": ""
         },
         "rss": ""
