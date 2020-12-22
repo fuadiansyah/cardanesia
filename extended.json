@@ -26,7 +26,7 @@
             "server": "We have 2 core/block producer nodes (main and backup) and 2 relays nodes all in separate locations. Each node is strategically located in different regions in the event an outage should occur in a particular geographic location. The main region is, of course, in Jakarta, Indonesia.",
             "company": "We are an Indonesian stake pool operator. Our pool goal is aligned with Shelley's mission which is to promote True Decentralization for the Cardano blockchain. In addition, we want to spread the word and spirit of Cardano and the awareness of blockchain technology across our beloved country, Indonesia."
         },
-        "rss": ""
+        "validator": "27dd0520ab7220b296954513c0962eab"
     },
     "my-pool-ids": {
         "0": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d"
