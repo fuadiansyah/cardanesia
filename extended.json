@@ -1,0 +1,59 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://fuadiansyah.github.io/cardanesia/icon.png",
+        "url_png_logo": "https://fuadiansyah.github.io/cardanesia/logo.png",
+        "location": "Jakarta, Indonesia",
+        "social": {
+            "twitter_handle": "cardanesia",
+            "telegram_handle": "cardanesia",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Cardanesia",
+            "addr": "",
+            "city": "Padang",
+            "country": "Indonesia",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "0a423fa44f23b13cba59474427d11746136672af66b2d80b4499dd1d"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    },
+    "telegram-admin-handle": {
+        "0": "cardanesia"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
